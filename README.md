@@ -1,7 +1,7 @@
 # Netflix Data Analysis And Visualization
 This project provides an analysis of Netflix data using Python libraries such as NumPy, pandas, matplotlib, and seaborn. The analysis includes data cleaning, exploration, and visualization to uncover insights about Netflix content.
 
-#Project Structure
+##Project Structure
 The project is structured as follows:
 
 -**Importing Libraries**: Importing necessary libraries for data manipulation and visualization.
